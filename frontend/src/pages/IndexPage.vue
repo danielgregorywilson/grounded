@@ -1,7 +1,7 @@
 <template>
   <q-page class="q-px-xl">
     <div class="row items-center justify-evenly q-mx-xl">
-      <q-img src="public/logo-placeholder.jpeg" class="col-3" />
+      <q-img src="/images/logo-placeholder.jpeg" class="col-3" />
       <div class="text-h4 text-center q-pa-md col">
         <strong>Concentual</strong> is an online behavioral modeling service for families looking to embrace the internet while remaining in harmony with the natural world.
       </div>
