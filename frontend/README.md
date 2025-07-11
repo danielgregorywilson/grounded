@@ -1,38 +1,40 @@
-# sv
+# Concentual (concentual)
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+A Quasar Project
 
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
+## Install the dependencies
 ```bash
-# create a new project in the current directory
-npx sv create
-
-# create a new project in my-app
-npx sv create my-app
+yarn
+# or
+npm install
 ```
 
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
+### Start the app in development mode (hot-code reloading, error reporting, etc.)
 ```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
+quasar dev
 ```
 
-## Building
 
-To create a production version of your app:
-
+### Lint the files
 ```bash
-npm run build
+yarn lint
+# or
+npm run lint
 ```
 
-You can preview the production build with `npm run preview`.
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+### Format the files
+```bash
+yarn format
+# or
+npm run format
+```
+
+
+### Build the app for production
+```bash
+quasar build
+```
+
+### Customize the configuration
+See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
