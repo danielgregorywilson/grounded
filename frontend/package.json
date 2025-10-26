@@ -1,8 +1,8 @@
 {
-  "name": "concentual",
+  "name": "grounded",
   "version": "0.0.1",
   "description": "A Quasar Project",
-  "productName": "Concentual",
+  "productName": "Grounded",
   "author": "Daniel Wilson <daniel.gregory.wilson@gmail.com>",
   "type": "module",
   "private": true,

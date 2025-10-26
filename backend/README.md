@@ -1,4 +1,4 @@
-# Concentual Backend Readme
+# Grounded Backend Readme
 
 Python 3.12.2 
 

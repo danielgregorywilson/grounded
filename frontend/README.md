@@ -1,4 +1,4 @@
-# Concentual (concentual)
+# Grounded (grounded)
 
 A Quasar Project
 
